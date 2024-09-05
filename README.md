@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm L. McKinley Nevins (she/her)
+
+Welcome to my GitHub profile! I'm a current PhD Candidate at Washington State University, studying the drivers of tree responses to drought. You can get to know me better on my website (https://lmnevins23.wixsite.com/lmnevins), and I'm always interested with connecting with new people, so please reach out! 
 
 <!--
 **lmnevins/lmnevins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
